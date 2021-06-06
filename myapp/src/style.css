@@ -1,0 +1,10 @@
+/** @format */
+
+.stepbystep {
+    display: flex;
+    justify-content: center;
+  }
+  .page {
+    background-color:  rgb(62, 64, 65);
+  }
+  
